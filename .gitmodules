@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:o-wth/politirate-api.git
+[submodule "app"]
+	path = app
+	url = git@github.com:o-wth/politirate-app.git
