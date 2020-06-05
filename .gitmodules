@@ -1,0 +1,18 @@
+[submodule "v3/app"]
+	path = v3/app
+	url = git@github.com:o-wth/politirate-app.git
+[submodule "v3/api"]
+	path = v3/api
+	url = git@github.com:o-wth/politirate-api.git
+[submodule "v2/app"]
+	path = v2/app
+	url = git@github.com:o-wth/politirate-app.git
+[submodule "v2/api"]
+	path = v2/api
+	url = git@github.com:o-wth/politirate-api.git
+[submodule "v1/api"]
+	path = v1/api
+	url = git@github.com:o-wth/politirate-api.git
+[submodule "v1/app"]
+	path = v1/app
+	url = git@github.com:o-wth/politirate-app.git
