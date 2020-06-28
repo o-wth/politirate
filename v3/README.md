@@ -7,9 +7,11 @@ Notes on all platforms:
 
 ## Twitter
 
-1. **meaning/sentiment**: politicians should be able to convey their ideas without sacrificig clarity. 
+1. **meaning/sentiment**: politicians should be able to convey their ideas without sacrificig clarity
+    - difficulties: sarcasm and/or satire if they are mocking another politician
 
-2. **analytics**: retweets without comments, reetweets with comments, replies, and the number of likes should all be factored into this score. Retweets with comments and replies should be analyzed to see 
+2. **analytics**: retweets without comments, retweets with comments, replies, and the number of likes should all be factored into this score. Retweets with comments and replies should be analyzed for connotation. 
+    - difficulties: threaded tweets
 
 3. **pictures**: determine if a picture corresponds to its text
     - difficulties: on twitter people sometimes post screenshots of text to bypass the char limit
