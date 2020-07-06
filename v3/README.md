@@ -3,6 +3,7 @@ For each platform, each numbered item is its own subscore. In the future, we may
 
 Notes on all platforms:
 - beliefs: we may create another score to describe a politician's beliefs/place them on the political spectrum
+    - topic modeling
 - time: we should weight recent posts more than old posts
 
 ## Twitter
