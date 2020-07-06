@@ -9,6 +9,7 @@ Notes on all platforms:
 ## Twitter
 
 1. **meaning/sentiment**: politicians should be able to convey their ideas without sacrificig clarity
+    - use BERT (see [🤗 Transformers](https://github.com/huggingface/transformers))
     - difficulties: sarcasm and/or satire if they are mocking another politician
 
 2. **analytics**: retweets without comments, retweets with comments, replies, and the number of likes should all be factored into this score. Retweets with comments and replies should be analyzed for connotation. 
